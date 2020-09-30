@@ -3,6 +3,8 @@
 
 import PackageDescription
 
+let  cassia  = "oi"
+
 let package = Package(
     name: "Formworks",
     platforms: [
